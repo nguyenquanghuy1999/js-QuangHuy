@@ -1,3 +1,4 @@
+// khởi tạo một class
 class Human{
     species ="human";
 
